@@ -3342,7 +3342,7 @@ export const checkForUnauthorizedResponse = (error, thunkAPI) => {
 allJobsThunk.js
 
 ```js
-import customFetch, { checkForUnauthorizedResponse } from '../../utils/axios';
+import customFetch,from '../../utils/axios';
 
 export const showStatsThunk = async (_, thunkAPI) => {
   try {

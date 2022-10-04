@@ -12,6 +12,7 @@ import StatsContainer from './StatsContainer';
 import Loading from './Loading';
 import BarChartComponent from './BarChart';
 import AreaChartComponent from './AreaChart';
+import PageBtnContainer from './PageBtnContainer';
 
 export {
   Logo,
@@ -28,4 +29,5 @@ export {
   StatsContainer,
   BarChartComponent,
   AreaChartComponent,
+  PageBtnContainer
 };
